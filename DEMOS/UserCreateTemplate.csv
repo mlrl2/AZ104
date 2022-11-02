@@ -1,0 +1,2 @@
+﻿Firstname,Lastname,Maildomain,SAM,OU,Password,Description
+USER1,USU,@marinalrliragmail.onmicrosoft.com,USER1," OU=Standard Users,OU=Users,DC=domain,DC=loc",Az104@usu,Test User
